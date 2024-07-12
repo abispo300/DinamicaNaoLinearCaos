@@ -1,0 +1,1 @@
+Este repositório é parte da disciplina de mestrado em Física intitulada "Dinâmica Não Linear e Caos", ministrada pelo professor Dr. Ricardo Viana. Aqui, você encontrará códigos em Python relacionados a diversos tópicos da dinâmica não linear.
